@@ -1,0 +1,18 @@
+{
+  "name": "World Girls Scorts",
+  "short_name": "World Girls",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#001535",
+  "icons": [
+    {
+      "src": "world-girls-logo.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
